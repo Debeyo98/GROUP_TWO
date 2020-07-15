@@ -1,0 +1,46 @@
+header{
+    /* border: 3px solid red; */
+    background-color:darkblue;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+nav{
+    background-color: transparent;
+}
+
+.nav-link{
+    color: #ffffff;
+}
+
+.btn{
+    border: 0.75px solid #ffffff;
+    color:  #ffffff;
+    border-radius: 20px;
+}
+.card{
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.btn2{
+    border-radius: 20px;
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    background-color: darkblue;
+}
+.text-size{
+    font-size: 25px;
+}
+.Head{
+    text-align: center;
+    padding-top: 3px;
+}
+#sect1{
+    display: inline-flex;
+    /* padding-top: 2px; */
+}
+footer{
+    text-align: center;
+}
